@@ -232,3 +232,14 @@ Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
+## class 05
+
+Number and name of feature: Deploy and Extend My Portfolio
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 2 PM
+
+Finish time: 5 PM
+
+Actual time needed to complete: 3 hours
